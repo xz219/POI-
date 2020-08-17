@@ -7,6 +7,9 @@ public class dada {
 		
 		
 		System.out.println(444444444);
+		System.out.println(2333333);
+		System.out.println(2333333);
+		System.out.println(2333333);
 	}
 
 }
